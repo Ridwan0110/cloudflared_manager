@@ -1,0 +1,4 @@
+{
+  "remote_server": "https://script.ridwanabid.com/cloudflared-manager/update-ip",
+  "local_server": "http://localhost:5000"
+}

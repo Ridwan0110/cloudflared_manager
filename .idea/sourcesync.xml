@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SourceSyncRemoteConfigurationsService"><![CDATA[{
+  "connections": [
+    {
+      "type": "ssh_configuration",
+      "name": "LG Leon LTE",
+      "hostname": "192.168.192.100",
+      "port": "8022",
+      "username": "u0_110",
+      "remote_workspace_path": "/"
+    }
+  ],
+  "mainConnection": "LG Leon LTE"
+}]]></component>
+</project>
